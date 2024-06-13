@@ -6,6 +6,7 @@
     }
 section#login{
 width: 80vw;
+height: 45vh;
 }
 
 section#login > div#imagem{
@@ -29,6 +30,7 @@ section#login > div#formulario > p{
     }
     section#login{
         width: 950px;
+        height: 45vh;
 
     }
     section#login > div#imagem{
